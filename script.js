@@ -20,12 +20,20 @@ $(function()
 	
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
-	var songs = [{
-		artist: "Dig Didzay",
-		name: "Nếu Anh Đi (Cover)",
-		url: "Musics/NeuAnhDi.mp3",
-		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
-	}];
+	var songs = [
+        {
+		    artist: "Dig Didzay",
+		    name: "Nếu Anh Đi (Cover)",
+		    url: "Musics/NeuAnhDi.mp3",
+		    picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+        },
+        {
+            artist: "Đức Phúc",
+		    name: "Ánh nắng của anh",
+		    url: "Musics/Anh-Nang-Cua-Anh-Cho-Em-Den-Ngay-Mai-OST-Duc-Phuc.mp3",
+		    picture:"https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg",
+        }
+    ];
 	
 	function shuffle(a) {
 		var j, x, i;
