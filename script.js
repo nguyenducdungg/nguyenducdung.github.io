@@ -25,14 +25,92 @@ $(function()
 		    artist: "Dig Didzay",
 		    name: "Nếu Anh Đi (Cover)",
 		    url: "Musics/NeuAnhDi.mp3",
-		    picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+		    picture: "https://github.com/nguyenducdungg/Images/blob/master/Background/IMG_2183.jpg"
         },
         {
             artist: "Đức Phúc",
 		    name: "Ánh nắng của anh",
 		    url: "Musics/Anh-Nang-Cua-Anh-Cho-Em-Den-Ngay-Mai-OST-Duc-Phuc.mp3",
-		    picture:"https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg",
-        }
+		    picture:"https://github.com/nguyenducdungg/Images/blob/master/Background/IMG_2183.jpg",
+        },
+        {
+            artist: "Minh Vương M4U, Huy Cung",
+		    name: "Em sẽ là cô dâu",
+		    url: "Musics/Em-Se-La-Co-Dau-Minh-Vuong-M4U-Huy-Cung.mp3",
+		    picture:"https://github.com/nguyenducdungg/Images/blob/master/Background/IMG_2183.jpg",
+        },
+        {
+            artist: "Vũ Duy Khánh",
+		    name: "Vợ tuyệt vời nhất",
+		    url: "Musics/Em-Se-La-Co-Dau-Minh-Vuong-M4U-Huy-Cung.mp3",
+		    picture:"https://github.com/nguyenducdungg/Images/blob/master/Background/IMG_2183.jpg",
+        },
+        {
+            artist: "Youtobe",
+		    name: "Cô ấy chính là em",
+		    url: "Musics/5 ca khuc nhac hoa.mp3",
+		    picture:"https://github.com/nguyenducdungg/Images/blob/master/Background/IMG_2183.jpg",
+        },
+        {
+            artist: "Noo Phước Thịnh",
+		    name: "Chạm khẽ tim anh một chút thôi",
+		    url: "Musics/Cham-Khe-Tim-Anh-Mot-Chut-Thoi-Noo-Phuoc-Thinh.mp3",
+		    picture:"https://github.com/nguyenducdungg/Images/blob/master/Background/IMG_2183.jpg",
+        },
+        {
+            artist: "Khang Việt",
+		    name: "Chẳng có gì đẹp đẽ trên đời mãi",
+		    url: "Musics/Chang-Gi-Dep-De-Tren-Doi-Mai-Khang-Viet.mp3",
+		    picture:"https://github.com/nguyenducdungg/Images/blob/master/Background/IMG_2183.jpg",
+        },
+        {
+            artist: "Cao Nam Thanh",
+		    name: "Em ơi em đừng khóc",
+		    url: "Musics/Em-Oi-Em-Dung-Khoc-Cao-Nam-Thanh.mp3",
+		    picture:"https://github.com/nguyenducdungg/Images/blob/master/Background/IMG_2183.jpg",
+        },
+        {
+            artist: "Long Phạm",
+		    name: "Gió vẫn hát",
+		    url: "Musics/Gio-Van-Hat-Long-Pham.mp3",
+		    picture:"https://github.com/nguyenducdungg/Images/blob/master/Background/IMG_2183.jpg",
+        },
+        {
+            artist: "Vũ",
+		    name: "Lạ lùng",
+		    url: "Musics/La-Lung-Vu.mp3",
+		    picture:"https://github.com/nguyenducdungg/Images/blob/master/Background/IMG_2183.jpg",
+        },
+        {
+            artist: "Thái Đinh",
+		    name: "Phố không em",
+		    url: "Musics/Pho-Khong-Em-Thai-Dinh.mp3",
+		    picture:"https://github.com/nguyenducdungg/Images/blob/master/Background/IMG_2183.jpg",
+        },
+        {
+            artist: "Đức Phúc",
+		    name: "Ta còn yêu nhau",
+		    url: "Musics/Ta-Con-Yeu-Nhau-Duc-Phuc.mp3",
+		    picture:"https://github.com/nguyenducdungg/Images/blob/master/Background/IMG_2183.jpg",
+        },
+        {
+            artist: "Trịnh Đình Quang",
+		    name: "Thế giới ảo tình yêu thật",
+		    url: "Musics/The-Gioi-Ao-Tinh-Yeu-That-Trinh-Dinh-Quang",
+		    picture:"https://github.com/nguyenducdungg/Images/blob/master/Background/IMG_2183.jpg",
+        },
+        {
+            artist: "Reddy",
+		    name: "Vài giây nữa thôi",
+		    url: "Musics/Vai-Giay-Nua-Thoi-Reddy.mp3",
+		    picture:"https://github.com/nguyenducdungg/Images/blob/master/Background/IMG_2183.jpg",
+        },
+        {
+            artist: "RightTeeDDK",
+		    name: "Vượt đèn đỏ",
+		    url: "Musics/VuotDenDo-RightTeeDDK-6081154.mp3",
+		    picture:"https://github.com/nguyenducdungg/Images/blob/master/Background/IMG_2183.jpg",
+        },
     ];
 	
 	function shuffle(a) {
